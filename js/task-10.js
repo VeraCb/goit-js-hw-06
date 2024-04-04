@@ -48,3 +48,5 @@ function destroyBoxes() {
   // Șterge conținutul din div#boxes
   boxesContainer.innerHTML = '';
 }
+
+// sunt sincera , nu am facut aceste exercitii de sinestatator , m-am ajutat de Inteligenta artificiala , eu inca nu sunt atat de bine pregatita in acest limbaj ca sa pot face toate aceste insarcinari . dar aceasta a fost pentru mine o cerere de a invata js bine 
